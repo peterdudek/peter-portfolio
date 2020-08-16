@@ -20,6 +20,8 @@ Pages do not have any margins on extra small screens - they fill the entire widt
 
 Contact form was added as directed.
 
+My profile picture on index.html is "3-columns" wide, but on smaller screens it fills the whole width.
+
 I used semantic HTML tags(keeping in mind SEO and accessibility), such as: nav, section, header, footer, figure, and figcaption.
 
 I found a way to create Sticky Footers although I didn't use Bootstrap tools to do so.
@@ -27,6 +29,8 @@ I found a way to create Sticky Footers although I didn't use Bootstrap tools to 
 As you can see, I played a little with Bootstrap navigation bar colors and added some background color.
 
 There are two links to my social media accounts: LinkedIn and Github.
+
+Containers have borders and rounded edges (thanks to Bootstrap's class properties).
 
 I validated HTML using the W3C Markup Validation Service: https://validator.w3.org/ and it seemed alright.
 
