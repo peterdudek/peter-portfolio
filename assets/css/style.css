@@ -30,5 +30,18 @@
 }
 
 .projects {
-    background-color: rgb(155, 155, 155); 
+    background-color: rgb(201, 196, 196); 
+}
+
+.background2 {
+    background-color: rgb(92, 89, 89);
+}
+
+.theme {
+    background-color: black;
+}
+
+.centertxt {
+    display: block;
+    text-align: center;
 }
