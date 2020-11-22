@@ -37,5 +37,3 @@ I validated HTML using the W3C Markup Validation Service: https://validator.w3.o
 There are fewer commits than I made in reality as I started this portfolio again from scratch after I had realized that my css & image links as well as "assets" folder were a bit messy.
 
 ![My picture](assets/images/DeathValley.jpg)
-
-*Sorry for any language mistakes - English is my second language*
