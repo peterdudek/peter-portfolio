@@ -45,3 +45,7 @@
     display: block;
     text-align: center;
 }
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
