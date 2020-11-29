@@ -1,12 +1,4 @@
-# Responsive Portfolio
-
-Second version of my Responsive Portfolio
-
-This page uses HTML, CSS, and Bootstrap:
-* 97.8% HTML
-* 2.2% CSS
-* Some Bootstrap Magic (immesurable!)
-* Some Javascript to run the navbar collapsable feature properly
+# Piotr Dudek - Portfolio
 
 My goal was to create a mobile-friendly and responsive website that would be rendered properly on a variety of different screens, regardless of their sizes.
 
