@@ -1,4 +1,4 @@
-# Piotr Dudek - Portfolio
+# Peter Dudek - Portfolio
 
 My goal was to create a mobile-friendly and responsive website that would be rendered properly on a variety of different screens, regardless of their sizes.
 
